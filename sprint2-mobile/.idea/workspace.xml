@@ -5,8 +5,29 @@
       <config />
     </shared>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="39607405-165f-4c75-a054-b381b60fa1b0" name="Default Changelist" comment="" />
+    <list default="true" id="39607405-165f-4c75-a054-b381b60fa1b0" name="Default Changelist" comment="vinh_mt 16:10 28/12/2020 first-mobile-app">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sprint2/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sprint2/LoginActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,12 +102,35 @@
       <option name="presentableId" value="Default" />
       <updated>1609143793778</updated>
       <workItem from="1609143802009" duration="1641000" />
-      <workItem from="1609146551261" duration="53000" />
+      <workItem from="1609146551261" duration="689000" />
     </task>
+    <task id="LOCAL-00001" summary="vinh_mt 16:10 28/12/2020 first-mobile-app">
+      <created>1609146683782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609146683783</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vinh_mt 16:10 28/12/2020 first-mobile-app" />
+    <option name="LAST_COMMIT_MESSAGE" value="vinh_mt 16:10 28/12/2020 first-mobile-app" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="120" width="1200" height="800" key="AVDManager" timestamp="1609145052789">
@@ -97,5 +141,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609144289299" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609146690304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609146690304" />
   </component>
 </project>
