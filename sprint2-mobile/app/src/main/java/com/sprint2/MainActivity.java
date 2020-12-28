@@ -3,11 +3,11 @@ package com.sprint2;
 import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
+import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
-import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
             // Hiển thị ra màn hình thông báo
             Toast.makeText(getApplicationContext(), "Hãy kiểm tra kết nối mạng", Toast.LENGTH_LONG).show();
         }
+
     }
 
     // Set sự kiện khi nhấn login sẽ qua activity login
