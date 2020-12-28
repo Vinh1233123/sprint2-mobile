@@ -24,9 +24,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39607405-165f-4c75-a054-b381b60fa1b0" name="Default Changelist" comment="vinh_mt 16:20 28/12/2020 đã thiết lập xong nút thoát ở trang đăng nhập">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sprint2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sprint2/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    <list default="true" id="39607405-165f-4c75-a054-b381b60fa1b0" name="Default Changelist" comment="vinh_mt 16:29 28/12/2020 đã thiết lập xong nút Đăng nhập ở trang Main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,37 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sprint2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sprint2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sprint2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -61,7 +94,7 @@
       <recent name="com.sprint2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.sprint2-mobile [signingReport]">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="app" />
       <option name="DEPLOY" value="true" />
@@ -90,6 +123,30 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sprint2-mobile [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.sprint2-mobile [signingReport]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,7 +159,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609143793778</updated>
       <workItem from="1609143802009" duration="1641000" />
-      <workItem from="1609146551261" duration="1121000" />
+      <workItem from="1609146551261" duration="1220000" />
+      <workItem from="1609148072802" duration="494000" />
     </task>
     <task id="LOCAL-00001" summary="vinh_mt 16:10 28/12/2020 first-mobile-app">
       <created>1609146683782</created>
@@ -118,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609147269709</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="vinh_mt 16:29 28/12/2020 đã thiết lập xong nút Đăng nhập ở trang Main">
+      <created>1609147751147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609147751147</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,13 +199,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vinh_mt 16:10 28/12/2020 first-mobile-app" />
     <MESSAGE value="vinh_mt 16:20 28/12/2020 đã thiết lập xong nút thoát ở trang đăng nhập" />
-    <option name="LAST_COMMIT_MESSAGE" value="vinh_mt 16:20 28/12/2020 đã thiết lập xong nút thoát ở trang đăng nhập" />
+    <MESSAGE value="vinh_mt 16:29 28/12/2020 đã thiết lập xong nút Đăng nhập ở trang Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="vinh_mt 16:29 28/12/2020 đã thiết lập xong nút Đăng nhập ở trang Main" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="707" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609148203870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609148203870" />
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1609147664040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -149,14 +220,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="360" y="120" width="1200" height="800" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1609145052789" />
+    <state width="670" height="266" key="GridCell.Tab.0.bottom" timestamp="1609148443426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="670" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609148443426" />
+    <state width="670" height="266" key="GridCell.Tab.0.center" timestamp="1609148443425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="670" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609148443425" />
+    <state width="670" height="266" key="GridCell.Tab.0.left" timestamp="1609148443425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="670" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609148443425" />
+    <state width="670" height="266" key="GridCell.Tab.0.right" timestamp="1609148443425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="670" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609148443425" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1609144289299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609144289299" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609147278540">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609147754857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609147278540" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609147754857" />
     <state x="616" y="242" key="run.anything.popup" timestamp="1609147621719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
