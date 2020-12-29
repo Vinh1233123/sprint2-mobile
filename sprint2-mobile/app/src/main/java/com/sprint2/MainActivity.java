@@ -24,12 +24,13 @@ public class MainActivity extends AppCompatActivity {
         controlBtnMainLogin();
     }
 
+
     // Kiểm tra kết nối mạng 3G hoặc wifi
     private void checkNetWork() {
         connectivityManager = (ConnectivityManager) getSystemService(CONNECTIVITY_SERVICE);
-        myWifi =  connectivityManager.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
+        myWifi = connectivityManager.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
         my3G = connectivityManager.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);
-        if (myWifi == null || my3G == null){
+        if (myWifi == null || my3G == null) {
             // Hiển thị ra màn hình thông báo
             Toast.makeText(getApplicationContext(), "Hãy kiểm tra kết nối mạng", Toast.LENGTH_LONG).show();
         }

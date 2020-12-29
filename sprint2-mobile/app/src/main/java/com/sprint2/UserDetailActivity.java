@@ -25,6 +25,7 @@ public class UserDetailActivity extends AppCompatActivity {
         mapping();
         generateQrCode();
     }
+
 // Tạo QR code với dữ liệu được nhập vào
     private void generateQrCode() {
         btnGenerateQrCode.setOnClickListener(new View.OnClickListener() {
